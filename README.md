@@ -6,7 +6,7 @@ Podklady jsou šířeny pod licencí CC BY-NC-SA 3.0, celý text licence přilo�
 
 ## Obsah repozitáře:
 - PPSB-T - deska určená pro senzory DS18B20
-- PPSB-TH - univerzální deska určená pro senzory řad DHTxx a AMS23xx
+- PPSB-TH - univerzální deska určená pro senzory řady DHTxx
 
 # Eng. version follows
 Repository contains release versions of documentation, schematics and layouts for PCBs that are part of greenhouse automation system named PROTOPlant.
@@ -14,4 +14,4 @@ Content is distributed under CC-BY-NC-SA 3.0, whole licence text is contained in
 
 ## Repository contains:
 - PPSB-T - DS18B20 board
-- PPSB-TH - universal PCB for DHTxx and AM23xx sensors
+- PPSB-TH - universal PCB for DHTxx sensors
